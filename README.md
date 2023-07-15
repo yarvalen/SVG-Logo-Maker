@@ -11,7 +11,8 @@ color, shape, and text. End result examples have been provided as well as a tuto
     - [Credits](#credits)
     - [License](#license)
 ## Screenshot
-
+<image src="./image/example.png"
+>
 ## Installation
 Copy the repository to your computer.
 In the terminal run "npm i" 
