@@ -30,6 +30,8 @@ Lastly, a message will display notifying the user the SVG logo has been created.
 ## Test
 In the terminal run "npm run test" this is under the paramete of test "jest"
 
+## Demo 
+https://drive.google.com/file/d/1JgfkLo0l37WErWaLRHmY3rF5txicD1Fv/view
 ## Credits
 Instructor: Saurav Khatiwada
 Tutor: Andres Jimenez
